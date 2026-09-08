@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner.jpg" alt="Hilen Ortiz - QA Tester Jr." width="100%" />
+</div>
 
-<!--
-**hilenortiz/hilenortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">¡Bienvenido a mi perfil! 👋</h3>
 
-Here are some ideas to get you started:
+## 👩🏻‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy construyendo mi perfil profesional en QA y me encuentro enfocada en conseguir mi primera oportunidad en el área.
+
+Tengo formación práctica en testing manual, automatización E2E con Cypress, API Testing con Postman y validación de datos con SQL. Actualmente, desarrollo proyectos propios para seguir practicando y documentar mi trabajo en testing.
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Herramientas | Enlace |
+| :--- | :--- | :--- | :--- |
+| **QA Portfolio** | Casos de prueba, documentación funcional, reporte de bugs y automatización E2E. | Cypress, JavaScript, Git | [Ver Repositorio](https://github.com/hilenortiz/qa-portfolio) |
+| **Backend Testing** | Pruebas de APIs REST con Postman (CRUD, status codes y assertions) y consultas de validación en SQLite. | Postman, SQLite, Git | [Ver Repositorio](https://github.com/hilenortiz/backend-testing) |
+
+## 🛠️ Herramientas y Tecnologías
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Contacto
+
+* **LinkedIn:** [linkedin.com/in/hilenortiz](https://linkedin.com/in/hilenortiz)
+* **Email:** [hilenortiz@gmail.com](mailto:hilenortiz@gmail.com) 
+
+
+
+* **LinkedIn:** [linkedin.com/in/hilenortiz](https://linkedin.com/in/hilenortiz)
+* **Email:** [hilenortiz@gmail.com](mailto:hilenortiz@gmail.com)
