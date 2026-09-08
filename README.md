@@ -8,7 +8,7 @@
 
 Estoy construyendo mi perfil profesional en QA y me encuentro enfocada en conseguir mi primera oportunidad en el área.
 
-Tengo formación práctica en testing manual, automatización E2E con Cypress, API Testing con Postman y validación de datos con SQL. Actualmente, desarrollo proyectos propios para seguir practicando y documentar mi trabajo en testing.
+Tengo formación práctica tanto en testing manual como en automatización E2E con Cypress, API Testing con Postman y validación de datos con SQL. Actualmente desarrollo proyectos propios donde sigo practicando y voy documentando cada paso de mi proceso.
 
 ## 🚀 Proyectos Destacados
 
@@ -25,8 +25,3 @@ Tengo formación práctica en testing manual, automatización E2E con Cypress, A
 
 * **LinkedIn:** [linkedin.com/in/hilenortiz](https://linkedin.com/in/hilenortiz)
 * **Email:** [hilenortiz@gmail.com](mailto:hilenortiz@gmail.com) 
-
-
-
-* **LinkedIn:** [linkedin.com/in/hilenortiz](https://linkedin.com/in/hilenortiz)
-* **Email:** [hilenortiz@gmail.com](mailto:hilenortiz@gmail.com)
