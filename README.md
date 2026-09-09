@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./banner.jpg" alt="Hilen Ortiz - QA Tester Jr." width="100%" />
-</div>
 
 <h3 align="center">¡Bienvenido a mi perfil! 👋</h3>
 
