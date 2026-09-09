@@ -1,5 +1,9 @@
+<div align="center">
+  <h1>¡Hola! Soy Hilen 👋</h1>
+  <p><b>QA Tester | Estudiante de Informática</b></p>
+</div>
 
-<h3 align="center">¡Bienvenido a mi perfil! 👋</h3>
+---
 
 ## 👩🏻‍💻 Sobre mí
 
