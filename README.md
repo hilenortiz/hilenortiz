@@ -15,7 +15,7 @@ Tengo formación práctica tanto en testing manual como en automatización E2E c
 
 | Proyecto | Descripción | Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **QA Portfolio** | Casos de prueba, documentación funcional, reporte de bugs y automatización E2E. | Cypress, JavaScript, Git | [Ver Repositorio](https://github.com/hilenortiz/qa-portfolio) |
+| **QA Portfolio** | Casos de prueba, documentación funcional, reporte de bugs y automatización E2E. | Cypress, JavaScript, Git, Jira | [Ver Repositorio](https://github.com/hilenortiz/qa-portfolio) |
 | **Backend Testing** | Pruebas de APIs REST con Postman (CRUD, status codes y assertions) y consultas de validación en SQLite. | Postman, SQLite, Git | [Ver Repositorio](https://github.com/hilenortiz/backend-testing) |
 
 ## 🛠️ Herramientas y Tecnologías
