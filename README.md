@@ -7,7 +7,7 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-Estoy construyendo mi perfil profesional en QA y me encuentro enfocada en conseguir mi primera oportunidad en el área.
+Estoy construyendo mi perfil profesional en QA y busco mi primera oportunidad en el área.
 
 Tengo formación práctica tanto en testing manual como en automatización E2E con Cypress, API Testing con Postman y validación de datos con SQL. Actualmente desarrollo proyectos propios donde sigo practicando y voy documentando cada paso de mi proceso.
 
